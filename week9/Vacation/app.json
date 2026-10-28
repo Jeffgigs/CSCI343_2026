@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Vacation",
+    "slug": "Vacation",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/camping-splash.jpg",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/images/camping-splash.jpg",
+      "resizeMode": "cover",
+      "backgroundColor": "#000000"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/camping-splash.jpg",
+        "backgroundColor": "#000000"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/images/camping-splash.jpg"
+    }
+  }
+}
